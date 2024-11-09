@@ -13,13 +13,13 @@ A simple online store app built with React and Redux Toolkit. The app allows use
 
 ## 🌐 Demo
 
-Check out the live demo of the Cloth Store App here: [Cloth Store Demo]
+Check out the live demo of the Cloth Store App here: [Cloth Store Demo](https://cloth-store-app-new.vercel.app/)
 
 ## 🚀 Features
 
 - 🛒 **Add Products to Cart**: Select items and add them to the shopping cart.
 - ❌ **Remove Products from Cart**: Easily remove items from your cart.
-- 📦 **Cart Management**: View the products in your cart with total price and quantity.
+- 📦 **Cart Management**: View the products in your cart with total price.
 - 🧑‍🤝‍🧑 **State Management with Redux Toolkit**: A smooth and efficient state management system to manage the cart functionality.
 
 ## 🚀 Clone the Project
