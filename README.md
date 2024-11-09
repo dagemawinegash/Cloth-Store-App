@@ -22,11 +22,8 @@ Check out the live demo of the Cloth Store App here: [Cloth Store Demo]
 - 📦 **Cart Management**: View the products in your cart with total price and quantity.
 - 🧑‍🤝‍🧑 **State Management with Redux Toolkit**: A smooth and efficient state management system to manage the cart functionality.
 
-## 💻 Installation
+## 🚀 Clone the Project
 
-To run the Cloth Store App locally, follow these steps:
-
-1. **Clone the repository**:
    ```bash
    git clone https://github.com/dagemawinegash/Cloth-Store-App.git
 
